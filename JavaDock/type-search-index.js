@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"org.example","l":"GraphMatrix.GlobalDictionarySPB"},{"p":"org.example","l":"GraphMatrix"},{"p":"org.example","l":"Main"},{"p":"org.example","l":"MetroMinTime"},{"p":"org.example","l":"GraphMatrix.MyClass1"},{"p":"org.example","l":"GraphMatrix.MyClass2"}];updateSearchResults();
